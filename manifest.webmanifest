@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "Deutsch Atelier｜德語 A1 學習手帳",
+  "short_name": "德語手帳",
+  "description": "26週德語課程、逐句解析、104篇閱讀、1074筆單字及互動測驗",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f7f2",
+  "theme_color": "#1b625a",
+  "lang": "zh-TW",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
